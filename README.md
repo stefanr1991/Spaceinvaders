@@ -3,8 +3,8 @@ This is a simple Space Invaders game created using Pygame library in Python.
 
 
 ## Prerequisites
-Python 3.x
-Pygame library
+Python 3.x  
+Pygame library  
 
 
 ## How to instal
